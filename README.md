@@ -45,3 +45,8 @@ The project requires creating temporary views, partitioning data, caching and un
 
 ### After Parquet Partioned
 ![5 Parquet Partioned](https://user-images.githubusercontent.com/24644072/230701962-b9be587c-9835-43ed-9bea-ecbbf668e565.PNG)
+
+
+## Summary
+
+Overall, using cached data or the parquet DataFrame results in faster runtime as compared to querying the original data.
