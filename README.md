@@ -30,7 +30,7 @@ The project requires creating temporary views, partitioning data, caching and un
 
 
 
-## Runtime and compare it to uncached runtime
+## Comparing cached runtime with uncached runtime and parquet partioned runtime 
 
 ### uncached runtime
 ![5 Uncached](https://user-images.githubusercontent.com/24644072/230701956-0abfcb2d-bbb3-4bdf-8101-b02e16a0ac62.PNG)
